@@ -1,8 +1,8 @@
 <img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
 
-## 前端工程师—天平
+## 计算机爱好者
 
-热爱前端、热爱技术。工作经验2年。喜欢参与一些开源项目的讨论。
+热爱计算机技术、喜欢整蛊捣蛋。在研究好玩的技术
 
 ### **社交主页：**
 
