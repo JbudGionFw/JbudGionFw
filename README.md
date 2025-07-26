@@ -9,7 +9,7 @@
  <img align   对齐="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
 
--   <a href="[https://juejin.cn/user/1214304985296439/posts](https://space.bilibili.com/438038325?spm_id_from=333.1007.0.0)"><code><img height   高度="20" width="50" src="./images/juejin.png"></code></a>：掘金优秀作者，发表了 30 篇技术文章，15万阅读。
+-   <a href="[https://juejin.cn/user/1214304985296439/posts]"><code   代码><img height   高度="20" width="50" src="./images/juejin.png"></code></a>：掘金优秀作者，发表了 30 篇技术文章，15万阅读。
 
 ### **技术栈:**
 
